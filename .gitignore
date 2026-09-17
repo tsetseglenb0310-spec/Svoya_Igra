@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Файлы, которые создают игра и тесты при запуске
+temdeglel.txt
+test_temdeglel.txt
+old_ru/protokol.txt
+old_ru/test_protokol.txt
+
+# Временные файлы Office
+~$*
